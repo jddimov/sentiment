@@ -8,6 +8,7 @@ public class SentimentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SentimentApplication.class, args);
+		System.out.println("test");
 	}
 
 }
